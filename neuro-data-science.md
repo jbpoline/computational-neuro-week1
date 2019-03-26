@@ -71,7 +71,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Installation time and troubleshooting: 1 hour
 
 ### Git and GitHub
-#### 3 hours, Dr. Jean-Baptiste Poline (Valerie Hayot-Sasson)
+#### 3 hours, Valerie Hayot-Sasson, Liza Levitis
 
 	- Know your shell
 	- Git: understand the model
@@ -84,7 +84,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Tuesday May 7th
 
 ### Standards for project management and organization
-#### 3 hours, Elizabeth DuPre (?)
+#### 3 hours, Elizabeth Dupre, JB Poline
 
 	- General project organization (e.g., Project TIER, DRESS protocol)
 	- Brain Imaging Data Structure (BIDS)
@@ -94,7 +94,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Lunch: 1 hour
 
 ### Containers
-#### 3 hours, Greg Kiar (Liza Llevitas)
+#### 3 hours, Liza Levitis, Agha Karakuzu (Backup: Thomas Funck)
 
 	- Containers versus virtual machines
 	- Docker and singularity
@@ -109,7 +109,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Wednesday May 8th
 
 ### Python for data analysis
-#### 3 hours, Jake Vogel (Greg Kiar)
+#### 3 hours, Jake Vogel, Ross Markello (Backup: Thomas Funck)
 
 	- Why Python : a software glue
 	- Python key data structures
@@ -119,9 +119,9 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ### Lunch: 1 hour
 
-### Kirstie Whitaker Talk: 1 hour
-
-### Kirstie Whitaker Binder Lesson: 2 hours
+### 3 hours reserved for External: Luke Chang/Eshin Jolly (would be great). (Backup: Felix Faure-Lacroix) 
+### External Talk: 1 hour
+### External Lesson: 2 hours
 
 ### Assessment 2: 0.5 hours
 
@@ -130,7 +130,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Thursday May 9th
 
 ###  Exploring and visualizing data
-#### 3 hours, Elizabeth DuPre (Pierre Bellec)
+#### 3 hours, Elizabeth DuPre & Pierre Bellec
 
 	-- Getting to know your dataset:
 		-- Visualizing data (basics with scatterplots, histograms, etc)
@@ -144,7 +144,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Lunch: 1 hour
 
 ### Introduction to Machine learning
-#### 4 hours, Jake Vogel (Estefany Suarez)
+#### 4 hours, Jake Vogel & Estefany Suarez (Backups: Arna Ghosh, Peer Herholz, Estrid Jakobsen)
 
 	- Prediction and prediction error
 	- Feature selection
@@ -158,7 +158,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Friday May 10th
 
 ### Introduction to Deep Learning
-#### 3 hours, Jessica Thompson (?)
+#### 3 hours, Jessica Thompson, (Jessica's choice) (Backup: Thomas Funck)
 
 ### Lunch: 1 hour
 
